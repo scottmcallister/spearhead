@@ -18,10 +18,13 @@ h1 {
 
 #image-container img {
     margin: auto;
+    margin-bottom: 100px;
 }
 
 #image-container h2 {
-    font-family: Verdana, Geneva, sans-serif;
+    font-family: 'Crimson Text', serif;
+    font-size: 45px;
     font-weight: lighter;
+    font-style: italic;
     margin: auto;
 }
